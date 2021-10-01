@@ -14,7 +14,7 @@ const data: Record<TProductId, TProduct> = {
     },
   },
   '6trfgkkj': {
-    name: 'Fuerte Avocado',
+    name: 'Fuerte Avocadoooo',
     id: '6trfgkkj',
     sku: 'AX4M8SJV',
     price: 1.21,
